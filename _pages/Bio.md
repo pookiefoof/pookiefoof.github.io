@@ -18,7 +18,7 @@ profile:
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a principal researcher at [Tencent ARC Lab](https://arc.tencent.com/en/index) and [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), where I lead an effort on 3D digitization/generation and immersive content creation. **We are actively looking for research interns and full-time researchers** to work on related research topics, including but not limited to 3D reconstruction, novel view synthesis, 3D generation, and shape analysis; please feel free to reach out if you are interested.
+I was a principal researcher at [Tencent ARC Lab](https://arc.tencent.com/en/index) and [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), where I led an effort on 3D digitization/generation and immersive content creation. 
 
 Previously, I worked as a senior research engineer at Y-tech, [Kuaishou Technology](https://www.kuaishou.com/en). Before that, I was the CTO of [Owlii](https://pitchbook.com/profiles/company/171393-49) (acquired by Kuaishou).
 
