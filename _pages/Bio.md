@@ -2,7 +2,7 @@
 layout: about
 title: Bio
 permalink: /
-subtitle: Researcher @ <a href='https://arc.tencent.com/en/index'>Tencent ARC Lab</a> and <a href='https://ai.tencent.com/ailab/en/index'>Tencent AI Lab</a>
+subtitle: Head of Research & Founding Team @ VAST
 
 profile:
   align: right
