@@ -18,9 +18,9 @@ profile:
 social: true  # includes social icons at the bottom of the page
 ---
 
-I was a principal researcher at [Tencent ARC Lab](https://arc.tencent.com/en/index) and [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), where I led an effort on 3D digitization/generation and immersive content creation. 
+I am the Head of Research at VAST, building [Tripo](https://www.tripo3d.ai). 
 
-Previously, I worked as a senior research engineer at Y-tech, [Kuaishou Technology](https://www.kuaishou.com/en). Before that, I was the CTO of [Owlii](https://pitchbook.com/profiles/company/171393-49) (acquired by Kuaishou).
+Previously, I was a principal researcher at [Tencent ARC Lab](https://arc.tencent.com/en/index) and [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), where I led an effort on 3D digitization/generation and immersive content creation. Before joining Tencent, I worked as a senior research engineer at Y-tech, [Kuaishou Technology](https://www.kuaishou.com/en). Earlier, I was the CTO of [Owlii](https://pitchbook.com/profiles/company/171393-49) (acquired by Kuaishou).
 
 I did my PhD at [Graphics and Geometric Computing Group](https://cg.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), where I was advised by [Prof. Shi-Min Hu](https://cg.cs.tsinghua.edu.cn/shimin.htm). During my PhD, I spent a semester as a visiting PhD student at [Computer Graphics Group](https://www.graphics.rwth-aachen.de/), RWTH Aachen University, advised by [Prof. Leif Kobbelt](https://www.graphics.rwth-aachen.de/person/3/). Earlier, I obtained my bachelor's degree in Computer Science from Tsinghua University.
 
