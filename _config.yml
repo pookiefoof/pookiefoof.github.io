@@ -12,7 +12,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: Yanpei Cao, Yan-Pei Cao, 曹炎培, Tencent ARC Lab, 应用研究中心, Y-Tech, Kuaishou, Owlii, 3D Reconstruction, Telepresence, NeRF, DeVRF, DoubleField, PMP-Net, SnowflakeNet, 3D Computer Vision, SLAM  # add your own keywords or leave empty
+keywords: Yanpei Cao, Yan-Pei Cao, 曹炎培, Yanpei, Cao Yanpei, Yan-Pei, VAST, Tripo, Tripo AI, TripoAI, Tripo 3D, Tripo3D, Tencent AI Lab, Tencent ARC Lab, 应用研究中心, Tencent, Y-Tech, Kuaishou, Owlii, threestudio, TripoSR, GenAI 3D, AIGC 3D, GenAI, AIGC, 4D Reconstruction, 3D Reconstruction, Telepresence, NeRF, DeVRF, 3D Gaussian Splatting, DoubleField, PMP-Net, SnowflakeNet, 3D Computer Vision, SLAM, Computer Graphics  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: icon.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
