@@ -2,7 +2,7 @@
 layout: about
 title: Bio
 permalink: /
-subtitle: Head of Research & Founding Team @ VAST
+subtitle: Chief Scientist & Co-founder @ VAST
 
 profile:
   align: right
@@ -18,7 +18,7 @@ profile:
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am the Head of Research at VAST, building [Tripo](https://www.tripo3d.ai). 
+I am the Chief Scientist at VAST, building [Tripo](https://www.tripo3d.ai). 
 
 Previously, I was a principal researcher at [Tencent ARC Lab](https://arc.tencent.com/en/index) and [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), where I led an effort on 3D digitization/generation and immersive content creation. Before joining Tencent, I worked as a senior research engineer at Y-tech, [Kuaishou Technology](https://www.kuaishou.com/en). Earlier, I was the CTO of [Owlii](https://pitchbook.com/profiles/company/171393-49) (acquired by Kuaishou).
 
